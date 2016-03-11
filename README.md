@@ -1,6 +1,6 @@
 ### Carbon Emissions Sortable Table with Bar Chart Assignment.
 
-Create a sortable table using the carbon emissions json data in the `data` directory. One column of the table should contain horizontal bars to represent carbon emissions.
+Create a sortable table using the carbon emissions json data in the `data` directory. One column of the table should contain horizontal bars to represent carbon emissions. You can reference the campaign contributions assignment and example from class here: https://github.com/chriscanipe/campaign-donations-table.
 
 ####In the `index.html` document:
 
