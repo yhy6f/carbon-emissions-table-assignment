@@ -17,7 +17,6 @@ function loadData() {
 }
 
 
-
 function writeTable(data) {
 
 	// 1. Call the `loadData()` function when the page is loaded.
