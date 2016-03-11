@@ -1,0 +1,25 @@
+
+
+/* Use CSS to right-align the text in the "Amount" column.
+Hint: You'll want to assign a class to the associated <th> and <td> tags
+in your index.html and script.js files. */
+
+
+table.emissions {
+	table-layout: fixed;
+}
+
+th.total, td.total {
+	text-align: right;
+}
+
+.bar-container {
+	position: relative;
+	width: 100%;
+}
+
+.bar {
+	height: 15px;
+	display: inline-block;
+	background-color: #000;
+}
