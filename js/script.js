@@ -28,7 +28,7 @@ function writeTable(data) {
 	// 7. Omit the United States total value
 	// 8. Use the DataTables library to make it sortable.
 	// 9. Sort by total emissions, most to least.
-	// 10. Set the default view to show all 50 states plus DC. You'll want to reference the [Data Tables](https://www.datatables.net/) documentation for those last three.
+	// 10. Set the default view to show all 50 states plus DC. You'll want to reference the [Data Tables](https://www.datatables.net/) documentation for those last two.
 
 
 }
